@@ -1,0 +1,16 @@
+E:\DesignPatterns\AbstractFactoryDp\bin\Debug\net5.0\AbstractFactoryDp.exe
+E:\DesignPatterns\AbstractFactoryDp\bin\Debug\net5.0\AbstractFactoryDp.deps.json
+E:\DesignPatterns\AbstractFactoryDp\bin\Debug\net5.0\AbstractFactoryDp.runtimeconfig.json
+E:\DesignPatterns\AbstractFactoryDp\bin\Debug\net5.0\AbstractFactoryDp.runtimeconfig.dev.json
+E:\DesignPatterns\AbstractFactoryDp\bin\Debug\net5.0\AbstractFactoryDp.dll
+E:\DesignPatterns\AbstractFactoryDp\bin\Debug\net5.0\ref\AbstractFactoryDp.dll
+E:\DesignPatterns\AbstractFactoryDp\bin\Debug\net5.0\AbstractFactoryDp.pdb
+E:\DesignPatterns\AbstractFactoryDp\obj\Debug\net5.0\AbstractFactoryDp.csproj.AssemblyReference.cache
+E:\DesignPatterns\AbstractFactoryDp\obj\Debug\net5.0\AbstractFactoryDp.GeneratedMSBuildEditorConfig.editorconfig
+E:\DesignPatterns\AbstractFactoryDp\obj\Debug\net5.0\AbstractFactoryDp.AssemblyInfoInputs.cache
+E:\DesignPatterns\AbstractFactoryDp\obj\Debug\net5.0\AbstractFactoryDp.AssemblyInfo.cs
+E:\DesignPatterns\AbstractFactoryDp\obj\Debug\net5.0\AbstractFactoryDp.csproj.CoreCompileInputs.cache
+E:\DesignPatterns\AbstractFactoryDp\obj\Debug\net5.0\AbstractFactoryDp.dll
+E:\DesignPatterns\AbstractFactoryDp\obj\Debug\net5.0\ref\AbstractFactoryDp.dll
+E:\DesignPatterns\AbstractFactoryDp\obj\Debug\net5.0\AbstractFactoryDp.pdb
+E:\DesignPatterns\AbstractFactoryDp\obj\Debug\net5.0\AbstractFactoryDp.genruntimeconfig.cache
