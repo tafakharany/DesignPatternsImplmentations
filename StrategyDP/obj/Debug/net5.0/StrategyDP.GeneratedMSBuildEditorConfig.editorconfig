@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = StrategyDP
-build_property.ProjectDir = e:\DesignPatterns\StrategyDP\
+build_property.ProjectDir = E:\DesignPatterns\StrategyDP\

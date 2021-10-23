@@ -1,0 +1,16 @@
+E:\DesignPatterns\StrategyDP\obj\Debug\net5.0\StrategyDP.csproj.AssemblyReference.cache
+E:\DesignPatterns\StrategyDP\obj\Debug\net5.0\StrategyDP.GeneratedMSBuildEditorConfig.editorconfig
+E:\DesignPatterns\StrategyDP\obj\Debug\net5.0\StrategyDP.AssemblyInfoInputs.cache
+E:\DesignPatterns\StrategyDP\obj\Debug\net5.0\StrategyDP.AssemblyInfo.cs
+E:\DesignPatterns\StrategyDP\obj\Debug\net5.0\StrategyDP.csproj.CoreCompileInputs.cache
+E:\DesignPatterns\StrategyDP\bin\Debug\net5.0\StrategyDP.exe
+E:\DesignPatterns\StrategyDP\bin\Debug\net5.0\StrategyDP.deps.json
+E:\DesignPatterns\StrategyDP\bin\Debug\net5.0\StrategyDP.runtimeconfig.json
+E:\DesignPatterns\StrategyDP\bin\Debug\net5.0\StrategyDP.runtimeconfig.dev.json
+E:\DesignPatterns\StrategyDP\bin\Debug\net5.0\StrategyDP.dll
+E:\DesignPatterns\StrategyDP\bin\Debug\net5.0\ref\StrategyDP.dll
+E:\DesignPatterns\StrategyDP\bin\Debug\net5.0\StrategyDP.pdb
+E:\DesignPatterns\StrategyDP\obj\Debug\net5.0\StrategyDP.dll
+E:\DesignPatterns\StrategyDP\obj\Debug\net5.0\ref\StrategyDP.dll
+E:\DesignPatterns\StrategyDP\obj\Debug\net5.0\StrategyDP.pdb
+E:\DesignPatterns\StrategyDP\obj\Debug\net5.0\StrategyDP.genruntimeconfig.cache
